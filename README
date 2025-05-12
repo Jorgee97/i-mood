@@ -1,0 +1,21 @@
+# Base Description
+
+TUI mood tracker
+
+
+# Future features:
+
+# Basic features I want to add
+- [ ] Save the entries locally to a sqlite file
+- [ ] Allow the user to select a mood and add some text for thoughts althougt it shouldn't be required to add text
+- [ ] Show a table or lit of entries
+- [ ] Add a license
+
+
+# More advanced feaures (I guess)
+- [ ] Stats based on the entries that the user created
+- [ ] Allow settings like add moods, saving file location
+- [ ] Maybe only allow the opening of the entries by using a password?
+- [ ] Show an encouraging phrase
+
+
